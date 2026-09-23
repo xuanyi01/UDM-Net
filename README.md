@@ -145,5 +145,4 @@ python tools/extract_ema.py /path/to/checkpoint.pth /path/to/output_ema.pth
 
 ## Licensing
 
-No project-wide license is declared. License notices for included components
-remain with the relevant files. UAV source videos are not included.
+HazeUAVvideo is licensed under [CC BY-NC 4.0](DATA_LICENSE.md).
