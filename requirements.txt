@@ -1,0 +1,9 @@
+torch>=1.9
+torchvision>=0.10
+mmcv-full>=1.3.13,<1.8
+einops
+timm
+mamba-ssm==1.0.1
+opencv-python
+scipy
+tqdm
